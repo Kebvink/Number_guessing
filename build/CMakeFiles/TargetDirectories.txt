@@ -1,0 +1,3 @@
+D:/Zahlenraten/build/CMakeFiles/Zahleraten.dir
+D:/Zahlenraten/build/CMakeFiles/edit_cache.dir
+D:/Zahlenraten/build/CMakeFiles/rebuild_cache.dir

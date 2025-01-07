@@ -1,0 +1,12 @@
+# ninja log v6
+2	67	7579433183338146	CMakeFiles/Zahleraten.dir/src/main.cpp.obj	88bffaa965ef14de
+2	417	7579433438708786	CMakeFiles/Zahleraten.dir/src/main.cpp.obj	88bffaa965ef14de
+419	550	7579433442878339	Zahleraten.exe	f761997a656e7867
+18	362	7579441258121181	CMakeFiles/Zahleraten.dir/src/main.cpp.obj	88bffaa965ef14de
+362	491	7579441261565271	Zahleraten.exe	f761997a656e7867
+6	354	7579441574446007	CMakeFiles/Zahleraten.dir/src/main.cpp.obj	88bffaa965ef14de
+355	486	7579441577934438	Zahleraten.exe	f761997a656e7867
+5	357	7579442494920742	CMakeFiles/Zahleraten.dir/src/main.cpp.obj	88bffaa965ef14de
+358	485	7579442498451086	Zahleraten.exe	f761997a656e7867
+5	587	7579452618463964	CMakeFiles/Zahleraten.dir/src/main.cpp.obj	88bffaa965ef14de
+588	723	7579452624307054	Zahleraten.exe	f761997a656e7867

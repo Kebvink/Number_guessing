@@ -1,0 +1,9 @@
+Es soll ein Spiel entwickelt werden mit einem Menu zum starten,
+optionen um den Max wert zu erhöhen und Beenden.
+
+Es sollte eine Eingabevalidierung durchgeführt werden.
+
+Bei dem Spiel geht es darum die Zahl zu erraten die zufällig generiert wurde.
+Die hinweiße werden mit Größer oder Kleiner gegeben.
+
+Programmiert werden soll mit c++.
