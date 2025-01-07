@@ -63,7 +63,7 @@ while (Eingabe!=Random_Number)
     }
     else
     {
-        std::cout << "Die gesuchte Zahl ist groeßer" << std::endl;
+        std::cout << "Die gesuchte Zahl ist groesser" << std::endl;
     }
     std::cin >> Eingabe;
 }
